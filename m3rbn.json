@@ -36,13 +36,7 @@
          "tools" : [
             {
                "systems" : [
-                  {
-                     "checksum" : "SHA-256:165c921764ff0451…83fd4c92202f70f33ad4a7e",
-                     "url" : "http://dan.drown.org/stm32duino/tools_linux64-2022.9.26.tar.gz",
-                     "archiveFileName" : "tools_linux64-2022.9.26.tar.gz",
-                     "size" : 966819,
-                     "host" : "x86_64-pc-linux-gnu"
-                  },
+                  
                   {
                      "checksum" : "SHA-256:3771c1f052e4988ecd6bbd6df111a6cd745cf13ca7bbaf55322e89e5c822013f",
                      "url" : "http://dan.drown.org/stm32duino/tools_linux-2022.9.26.tar.gz",
