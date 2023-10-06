@@ -2,7 +2,7 @@
    "packages" : [
       {
          "email" : "?",
-         "maintainer" : "stm32duino",
+         "maintainer" : "stm32",
          "platforms" : [
             
             {
