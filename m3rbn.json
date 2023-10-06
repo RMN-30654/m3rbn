@@ -50,9 +50,9 @@
             }
             ],
          "name" : "stm32duino",
-         "websiteURL" : "http://www.stm32duino.com/",
+         "websiteURL" : "https://github.com/RMN-30654/m3rbn/tree/main",
          "help" : {
-            "online" : "http://www.stm32duino.com/"
+            "online" : "https://github.com/RMN-30654/m3rbn/tree/main"
          }
       }
    ]
