@@ -36,10 +36,37 @@
          "tools" : [
             {
                "systems" : [
-                  
+                  {
+                     "checksum" : "SHA-256:e13e46a242182c8349d09d95db8c81e2f45d4df62f5caa6384366964b860c18a",
+                     "url" : "https://dan.drown.org/stm32duino/tools_win-2022.9.26.zip",
+                     "archiveFileName" : "tools_win-2022.9.26.zip",
+                     "host" : "i686-mingw32",
+                     "size" : 10487035
+                  },
+                  {
+                     "checksum" : "SHA-256:f712d231da08f6ede3dda3e1e3ccb9111994ad7bf86a307328acda2544c127a9",
+                     "url" : "https://dan.drown.org/stm32duino/tools_macosx-2022.9.26.tar.gz",
+                     "archiveFileName" : "tools_macosx-2022.9.26.tar.gz",
+                     "size" : 827666,
+                     "host" : "x86_64-apple-darwin"
+                  },
+                  {
+                     "checksum" : "SHA-256:f712d231da08f6ede3dda3e1e3ccb9111994ad7bf86a307328acda2544c127a9",
+                     "url" : "https://dan.drown.org/stm32duino/tools_macosx-2022.9.26.tar.gz",
+                     "archiveFileName" : "tools_macosx-2022.9.26.tar.gz",
+                     "host" : "i386-apple-darwin",
+                     "size" : 827666
+                  },
+                  {
+                     "checksum" : "SHA-256:165c921764ff0451eb4a7875ec2e898c09979c80683fd4c92202f70f33ad4a7e",
+                     "url" : "https://dan.drown.org/stm32duino/tools_linux64-2022.9.26.tar.gz",
+                     "archiveFileName" : "tools_linux64-2022.9.26.tar.gz",
+                     "size" : 966819,
+                     "host" : "x86_64-pc-linux-gnu"
+                  },
                   {
                      "checksum" : "SHA-256:3771c1f052e4988ecd6bbd6df111a6cd745cf13ca7bbaf55322e89e5c822013f",
-                     "url" : "http://dan.drown.org/stm32duino/tools_linux-2022.9.26.tar.gz",
+                     "url" : "https://dan.drown.org/stm32duino/tools_linux-2022.9.26.tar.gz",
                      "archiveFileName" : "tools_linux-2022.9.26.tar.gz",
                      "host" : "i686-pc-linux-gnu",
                      "size" : 913208
